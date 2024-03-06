@@ -1,5 +1,5 @@
-# Improving Fluoroprobe sensor performance through machine learning, Ecological Indicators 2024
-The code of the research conducted in "Improving Fluoroprobe sensor performance through machine learning" (Tal et al, 2024) on the use of ML to enhance FluoroProbe capabilities.
+# Improving Fluoroprobe sensor performance through machine learning
+The code of the research conducted in "Improving Fluoroprobe sensor performance through machine learning" (Tal et al, 2024) (Ecological Indicators) on the use of ML to enhance FluoroProbe capabilities in Lake Kinneret.
 
 # The code is implemented in Python 3.9 (Linux OS, Anaconda) using the following packages:
 * matplotlib==3.3.2
